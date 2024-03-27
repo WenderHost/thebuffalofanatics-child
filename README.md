@@ -4,6 +4,10 @@ This is a WordPress Child Theme for Zox News created for [thebuffalofanatics.com
 
 ## Changelog
 
+__1.1.0__
+
+- Removed `featured.php` in favor of using the parent theme's home widgets.
+
 __1.0.0__
 
 - CMC Media Player added above post title on mobile for Single Post views.
